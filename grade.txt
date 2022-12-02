@@ -1,0 +1,11 @@
+JUnit version 4.13.2
+.E
+Time: 0.183
+There was 1 failure:
+1) testTimeout(TestListExamples)
+org.junit.runners.model.TestTimedOutException: test timed out after 100 milliseconds
+	at app//TestListExamples.testTimeout(TestListExamples.java:7)
+
+FAILURES!!!
+Tests run: 1,  Failures: 1
+

@@ -1,0 +1,7 @@
+ASHLYNNNNN.java:1: error: class, interface, enum, or record expected
+System.out.println("AHSLYNNNNN");
+^
+ListExamples.java:15: error: ';' expected
+        result.add(0, s)
+                        ^
+2 errors
